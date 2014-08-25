@@ -1,0 +1,20 @@
+09:47:50 - Iniciou processo
+09:47:50 - Algoritmo a utilizar: 1
+09:47:50 - Profundidade da pesquisa de links: 0
+09:47:50 - Nº de agentes de pesquisa a lancar: 10
+09:47:50 - Texto a pesquisar: bola
+09:47:50 - Orientacao das palavras: 1
+09:47:50 - Iniciou accao
+09:47:51 - O agente de pesquisa searchAgent2@I01CO2015:1099/JADE terminou
+09:47:51 - O agente de pesquisa searchAgent6@I01CO2015:1099/JADE terminou
+09:47:51 - O agente de pesquisa searchAgent5@I01CO2015:1099/JADE terminou
+09:47:51 - O agente de pesquisa searchAgent4@I01CO2015:1099/JADE terminou
+09:47:51 - O agente de pesquisa searchAgent8@I01CO2015:1099/JADE terminou
+09:47:52 - O agente de pesquisa searchAgent3@I01CO2015:1099/JADE terminou
+09:47:52 - O agente de pesquisa searchAgent9@I01CO2015:1099/JADE terminou
+09:47:53 - O agente de pesquisa searchAgent1@I01CO2015:1099/JADE terminou
+09:47:53 - O agente de pesquisa searchAgent7@I01CO2015:1099/JADE terminou
+09:49:54 - O agente de pesquisa searchAgent10@I01CO2015:1099/JADE terminou
+09:49:54 - Os agentes de pesquisa terminaram as suas tarefas e foram removidos
+09:49:54 - Terminou accao
+09:49:54 - Terminou processo

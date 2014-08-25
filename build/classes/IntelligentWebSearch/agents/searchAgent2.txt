@@ -1,0 +1,10 @@
+09:47:50 - Iniciou processo
+09:47:50 - Link inicial: http://www.abola.pt/wdom/wdia.htm
+09:47:50 - Algoritmo a utilizar: 1
+09:47:50 - Profundidade da pesquisa: 0
+09:47:50 - Texto a pesqusiar: bola
+09:47:50 - Orientacao das palavras: 1
+09:47:50 - Iniciou accao
+09:47:51 - Mensagem enviada: END searchAgent2@I01CO2015:1099/JADE terminou pesquisa
+09:47:51 - Terminou accao
+09:47:51 - Terminou processo

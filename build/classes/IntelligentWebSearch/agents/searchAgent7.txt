@@ -1,0 +1,10 @@
+09:47:50 - Iniciou processo
+09:47:51 - Link inicial: http://ultimahora.publico.pt/shownews.asp?id=1210084
+09:47:51 - Algoritmo a utilizar: 1
+09:47:51 - Profundidade da pesquisa: 0
+09:47:51 - Texto a pesqusiar: bola
+09:47:51 - Orientacao das palavras: 1
+09:47:51 - Iniciou accao
+09:47:53 - Mensagem enviada: END searchAgent7@I01CO2015:1099/JADE terminou pesquisa
+09:47:53 - Terminou accao
+09:47:53 - Terminou processo

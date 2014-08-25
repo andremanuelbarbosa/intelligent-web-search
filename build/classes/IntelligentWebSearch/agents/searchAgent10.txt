@@ -1,0 +1,10 @@
+09:47:50 - Iniciou processo
+09:47:50 - Link inicial: http://quiosque.aeiou.pt/aleph/envelope?env_fontes2+listagem:list_noticias2:fonte:18
+09:47:50 - Algoritmo a utilizar: 1
+09:47:51 - Profundidade da pesquisa: 0
+09:47:51 - Texto a pesqusiar: bola
+09:47:51 - Orientacao das palavras: 1
+09:47:51 - Iniciou accao
+09:49:54 - Mensagem enviada: END searchAgent10@I01CO2015:1099/JADE terminou pesquisa
+09:49:54 - Terminou accao
+09:49:54 - Terminou processo
